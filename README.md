@@ -1,2 +1,2 @@
-# LYH-Store-LYH-Store.GitHub.io
+# LYH-Store.GitHub.io
 Tests 
