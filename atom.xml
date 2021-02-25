@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://LYH-Store.GitHub.io</id>
+    <id>https://LYH-Store.GitHub.io</id>
     <title>Gridea</title>
-    <updated>2021-02-25T12:33:53.940Z</updated>
+    <updated>2021-02-25T12:35:07.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://LYH-Store.GitHub.io"/>
-    <link rel="self" href="https://https://LYH-Store.GitHub.io/atom.xml"/>
+    <link rel="alternate" href="https://LYH-Store.GitHub.io"/>
+    <link rel="self" href="https://LYH-Store.GitHub.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://LYH-Store.GitHub.io/images/avatar.png</logo>
-    <icon>https://https://LYH-Store.GitHub.io/favicon.ico</icon>
+    <logo>https://LYH-Store.GitHub.io/images/avatar.png</logo>
+    <icon>https://LYH-Store.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://LYH-Store.GitHub.io/post/hello-gridea/</id>
-        <link href="https://https://LYH-Store.GitHub.io/post/hello-gridea/">
+        <id>https://LYH-Store.GitHub.io/post/hello-gridea/</id>
+        <link href="https://LYH-Store.GitHub.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
